@@ -6,6 +6,31 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachfun&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=3"
   alt="Top Langs" /></a></td>
 </tr></table>
+
+**Github Stats:**
+<p align="left">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=beachfun&show_icons=true&theme=dracula&count_private=true" />
+</p>
+
+<p align="left"> 
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=beachfun&theme=dracula" />
+</p>
+
+<h1><i>Stats</i></h1>
+
+<!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
+ 
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=beachfun&count_private=true&show_icons=true&theme=gotham)](https://github.com/beachfun/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beachfun&theme=gotham)](https://git.io/streak-stats)
+</br>
+</br>
+<h2><i>Activity Graph</i></h2>
+</br>
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beachfun&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <center>
   <div>
     <a href="https://git.io/typing-svg">
